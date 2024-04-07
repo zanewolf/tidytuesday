@@ -1,0 +1,27 @@
+{
+    "id": "EC9DED2F",
+    "path": "C:/Users/Zane/Documents/Projects/Dataviz/01_Ongoing_Projects/TidyTuesday/DuBois/DuBois.R",
+    "project_path": "DuBois.R",
+    "type": "r_source",
+    "hash": "1936568323",
+    "contents": "",
+    "dirty": false,
+    "created": 1712077521588.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "29,18",
+        "scrollLine": "28"
+    },
+    "folds": "61|12|88|2|\n101|10|141|0|\n",
+    "lastKnownWriteTime": 1712529111,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1712529111177,
+    "read_only": false,
+    "read_only_alternatives": []
+}
