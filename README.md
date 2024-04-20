@@ -5,6 +5,9 @@
 ## 2024 Week 14: Du Bois Challenge
 ![Pictogram waffle plot showing distribution of occupations for 330 black graduates from Atlanta University as of 1990](https://github.com/zanewolf/tidytuesday/blob/main/2024_W14_DuBois/Waffle.png?raw=true)
 
+I wanted to make a faceted waffle plot and figured out a 'brute force' way to make facets, but the text wasn't cooperating. I outputted just the waffle plot and finished it up in Illustrator. 
+![Pictogram waffle plot showing distribution of occupations for 330 black graduates from Atlanta University as of 1990](https://github.com/zanewolf/tidytuesday/blob/main/2024_W14_DuBois/Week14_WEBDuBois_Infographic.png?raw=true)
+
 ## 2018 Week 1: US State Tuition
 ![Density Ridgeline plot showing distribution of tuitions for all states by year, the density plots slowly flatten and shift right (increase).](https://github.com/zanewolf/tidytuesday/blob/main/2018_W1_Tuition/Tuition_Ridges.png?raw=true)
 
