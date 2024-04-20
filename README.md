@@ -11,5 +11,6 @@ I wanted to make a faceted waffle plot and figured out a 'brute force' way to ma
 ## 2018 Week 1: US State Tuition
 ![Density Ridgeline plot showing distribution of tuitions for all states by year, the density plots slowly flatten and shift right (increase).](https://github.com/zanewolf/tidytuesday/blob/main/2018_W1_Tuition/Tuition_Ridges.png?raw=true)
 
-I really wanted to learn how to make a table with sparklines, so bonus chart, with full table available [here](https://github.com/zanewolf/tidytuesday/blob/main/2018_W1_Tuition/Table.png): 
-![Table with State, first year tuition, last year tuition, percent increase, and sparklines.](https://github.com/zanewolf/tidytuesday/blob/main/2018_W1_Tuition/Table_Short.PNG?raw=true)
+I really wanted to learn how to make a table with sparklines, so bonus chart:
+![Table with State, first year tuition, last year tuition, percent_increase, and sparklines, in alphabetical order split across three columns](https://github.com/zanewolf/tidytuesday/blob/main/2018_W1_%20Tuition/Table_Split.png?raw=true): 
+![Table with Top 10 States by percent increase in tuition, with State, first year tuition, last year tuition, percent increase, and sparklines columns.](https://github.com/zanewolf/tidytuesday/blob/main/2018_W1_%20Tuition/Table_Short.PNG?raw=true)
