@@ -1,6 +1,6 @@
 # Tidy Tuesday Collection 
 
-
+| | | |                                                                                                                                                                                    
 | ------------- | ------------- | ------------- | 
 |   2024 W13<br> March Madness  | 2024 W14<br> Du Bois Challenge v1  | 2024 W14<br> Du Bois Challenge v2  |
 |  ![Heatmap showing percentage of pick to win by round for each time](https://github.com/zanewolf/tidytuesday/blob/main/2024_W13_MarchMadness/MarchMadness_Heatmap.png?raw=true) | ![Pictogram waffle plot showing distribution of occupations for 330 black graduates from Atlanta University as of 1990](https://github.com/zanewolf/tidytuesday/blob/main/2024_W14_DuBois/Waffle.png?raw=true) | ![Infographic Version](https://github.com/zanewolf/tidytuesday/blob/main/2024_W14_DuBois/Asset%203%401.5x.png?raw=true) | 
