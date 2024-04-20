@@ -1,6 +1,7 @@
 # Tidy Tuesday Collection 
 ## 2024 Week 13: March Madness
 ![Heatmap showing percentage of pick to win by round for each time](https://github.com/zanewolf/tidytuesday/blob/main/2024_W13_MarchMadness/MarchMadness_Heatmap.png?raw=true)
+<a href='https://github.com/zanewolf/tidytuesday/blob/main/2024_W13_MarchMadness/MarchMadness_Heatmap.png' target='_blank'><img src="https://github.com/zanewolf/tidytuesday/blob/main/2024_W13_MarchMadness/MarchMadness_Heatmap.png" align="center"/></a>
 
 ## 2024 Week 14: Du Bois Challenge
 ![Pictogram waffle plot showing distribution of occupations for 330 black graduates from Atlanta University as of 1990](https://github.com/zanewolf/tidytuesday/blob/main/2024_W14_DuBois/Waffle.png?raw=true) ![Pictogram waffle plot showing distribution of occupations for 330 black graduates from Atlanta University as of 1990](https://github.com/zanewolf/tidytuesday/blob/main/2024_W14_DuBois/Week14_WEBDuBois_Infographic.png?raw=true)
